@@ -1,0 +1,42 @@
+{
+    "students": [
+        {
+            "name": "Sushant Verma",
+            "age": 18,
+            "email": "sushant@gmail.com",
+            "roll_no": "7",
+            "grades": {
+                "Maths": 96.0,
+                "Science": 86.0,
+                "Hindi": 80.0,
+                "SST": 87.0,
+                "English": 81.0
+            }
+        },
+        {
+            "name": "Akshay",
+            "age": 16,
+            "email": "akshay34@gmail.com",
+            "roll_no": "3",
+            "grades": {
+                "Maths": 90.0
+            }
+        },
+        {
+            "name": "Mohd Ayan Khan",
+            "age": 19,
+            "email": "ayankhan@gmail.com",
+            "roll_no": "69",
+            "grades": {}
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Pratiksha",
+            "age": 34,
+            "email": "pratiksha88@gmail.com",
+            "emp_id": "675",
+            "subject": "Science"
+        }
+    ]
+}
