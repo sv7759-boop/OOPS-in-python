@@ -14,19 +14,20 @@
             }
         },
         {
-            "name": "Akshay",
-            "age": 16,
-            "email": "akshay34@gmail.com",
-            "roll_no": "3",
-            "grades": {
-                "Maths": 90.0
-            }
-        },
-        {
             "name": "Mohd Ayan Khan",
             "age": 19,
             "email": "ayankhan@gmail.com",
             "roll_no": "69",
+            "grades": {
+                "Maths": 89.0,
+                "Science": 93.0
+            }
+        },
+        {
+            "name": "Vishal Tarkar",
+            "age": 18,
+            "email": "vishal66@gmail.com",
+            "roll_no": "4",
             "grades": {}
         }
     ],
